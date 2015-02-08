@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Admin
+Build-Jdk: 1.7.0_55
+Main-Class: technicalTest.shazam.word_count.App
+
+
